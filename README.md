@@ -29,6 +29,7 @@ I focus on writing highly optimized code, mastering algorithms, and handling str
 ---
 
 ### 🌐 Connect With Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamad-fouad-murad-7202ab318/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-sys/images/social/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+
+<a href="https://www.linkedin.com/in/mohamad-fouad-murad](https://www.linkedin.com/in/mohamad-fouad-murad-7202ab318/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
