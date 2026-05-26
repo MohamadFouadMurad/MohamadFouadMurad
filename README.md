@@ -16,7 +16,7 @@ I focus on writing highly optimized code, mastering algorithms, and handling str
 ---
 
 ### 🛠️ Languages and Core Tools:
-* **Core Languages:** `C++`, `C`, `JavaScript`
+* **Core Languages:** `C++`, `C#`.
 * **Development Competencies:** Algorithmic Thinking, Data Structure Management, Object-Oriented Frameworks, Custom Dynamic Enums & Structs.
 * **Tools & Software:** `Git`, `GitHub`, `VS Code`, Visual Studio.
 
