@@ -1,6 +1,6 @@
 # Hey 👋, I'm Mohamad Fouad Murad!
 
-<img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/development.gif?raw=true" align="right" alt="Developer Setup" width="350" height="350" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm95b3E3ZXB3Z3Y0dXZ0b3p0b3R0b3R0b3R0b3R0b3R0b3R0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" alt="Developer Setup" width="350" height="350" />
 
 I am a **Software Engineering Student** at Prince Sattam Bin Abdulaziz University 🎓. I am deeply passionate about **Back-End Development**, low-level logic structures, system architecture, and Artificial Intelligence 🚀. 
 
