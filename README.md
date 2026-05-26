@@ -1,6 +1,6 @@
 # Hey 👋, I'm Mohamad Fouad Murad!
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-sys/images/social/developer.svg" align="right" alt="Developer Setup" width="380" height="380" />
+<img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/development.gif?raw=true" align="right" alt="Developer Setup" width="350" height="350" />
 
 I am a **Software Engineering Student** at Prince Sattam Bin Abdulaziz University 🎓. I am deeply passionate about **Back-End Development**, low-level logic structures, system architecture, and Artificial Intelligence 🚀. 
 
