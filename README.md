@@ -30,6 +30,6 @@ I focus on writing highly optimized code, mastering algorithms, and handling str
 
 ### 🌐 Connect With Me:
 
-<a href="https://www.linkedin.com/in/mohamad-fouad-murad](https://www.linkedin.com/in/mohamad-fouad-murad-7202ab318/" target="_blank">
+<a href="https://www.linkedin.com/in/mohamad-fouad-murad" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
