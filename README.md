@@ -31,8 +31,7 @@ I focus on writing highly optimized code, mastering algorithms, and handling str
 ---
 
 ### 🚀 Highlighted Engineering Projects:
-* **[Programming Advices Challenge - Course 5](https://github.com/MohamadFouadMurad/programming-advices-course-5):** Complete, production-grade deployment of 50 algorithmic core logic and functional structure solutions written in optimized C++.
-* **[C++ Logic & Console Projects Framework](https://github.com/MohamadFouadMurad/Course_5--Projects):** A modular console ecosystem housing advanced dynamic projects including specialized structural decision matrices (Rock Paper Scissors) and dynamic multi-conditional arithmetic scoring modules (Math Game).
+Soon........
 
 ---
 
