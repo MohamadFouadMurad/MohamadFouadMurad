@@ -1,7 +1,5 @@
 # Hey 👋, I'm Mohamad Fouad Murad!
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm95b3E3ZXB3Z3Y0dXZ0b3p0b3R0b3R0b3R0b3R0b3R0b3R0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" alt="Developer Setup" width="350" height="350" />
-
 I am a **Software Engineering Student** at Prince Sattam Bin Abdulaziz University 🎓. I am deeply passionate about **Back-End Development**, low-level logic structures, system architecture, and Artificial Intelligence 🚀. 
 
 I focus on writing highly optimized code, mastering algorithms, and handling structural dynamic states inside scalable systems.
@@ -17,10 +15,18 @@ I focus on writing highly optimized code, mastering algorithms, and handling str
 
 ---
 
-### 🛠️ Languages and Core Tools:
-* **Core Languages:** `C++`, `C#`
-* **Development Competencies:** Algorithmic Thinking, Data Structure Management, Object-Oriented Frameworks, Custom Dynamic Enums & Structs.
-* **Tools & Software:** `Git`, `GitHub`, `VS Code`, Visual Studio.
+### 🛠️ Tech Stack & Core Tools:
+
+```💡 Languages & Frameworks```
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+```⚙️ Tools & Environments```
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
