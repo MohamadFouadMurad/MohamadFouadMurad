@@ -1,0 +1,31 @@
+name: Generate Datas
+
+on:
+  schedule: # يشتغل تلقائياً كل 12 ساعة لتحديث اللعبة
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # يتيح لك تشغيله يدوياً في أي وقت
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Game
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: MohamadFouadMurad
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # deploy to "output" branch
+      - name: deploy github-contribution-grid-snake.svg to github-pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
