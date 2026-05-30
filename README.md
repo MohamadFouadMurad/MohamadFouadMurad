@@ -18,9 +18,7 @@ I focus on writing highly optimized code, mastering algorithms, and handling str
 ### 🛠️ Tech Stack & Core Tools:
 
 ```💡 Languages & Frameworks```
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ```⚙️ Tools & Environments```
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -35,8 +33,27 @@ Soon........
 
 ---
 
+### 🐍 My GitHub Contribution Snake:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamadFouadMurad/MohamadFouadMurad/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamadFouadMurad/MohamadFouadMurad/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/MohamadFouadMurad/MohamadFouadMurad/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ### 🌐 Connect With Me:
 
 <a href="https://www.linkedin.com/in/mohamad-fouad-murad" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
+<a href="mailto:foadmurad022@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<br />
+
+---
+
+### 📊 Profile Stats:
+![Profile Views](https://views.whatilearened.today/views/github/MohamadFouadMurad/MohamadFouadMurad.svg)
