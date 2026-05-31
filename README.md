@@ -47,7 +47,7 @@ Soon........
 <a href="https://www.linkedin.com/in/mohamad-fouad-murad" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
-<a href="mailto:foadmurad022@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=foadmurad022@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
